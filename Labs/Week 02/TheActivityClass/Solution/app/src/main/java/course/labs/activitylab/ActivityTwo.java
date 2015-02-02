@@ -195,7 +195,7 @@ public class ActivityTwo extends Activity {
         savedInstanceState.putInt("mRestart", mRestart);
         savedInstanceState.putInt("mResume", mResume);
 
-        super.onSaveInstanceState(savedInstanceState);
+        super.onSaveInstanceState(savedInstanceState); 
 
 
 		
